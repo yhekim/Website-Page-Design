@@ -14,8 +14,6 @@ Project aims to create website site page.
 
 ## Resources
 
--  [Images](https://github.com/clarusway/clarusway-full-stack-7-21/tree/main/html-css/projects/004-%20Website%20Page%20Design/img)
-
 ![gif](https://raw.githubusercontent.com/yhekim/Website-Page-Design/main/website%20page%20design.gif)
 
 ## Project Skeleton 
