@@ -1,0 +1,89 @@
+# Project-005 : Website Page Design
+
+- https://sleepy-brattain-d7efd2.netlify.app/
+
+- https://yhekim.github.io/To-Do-App-JS/
+
+## Description
+
+Project aims to create website site page.
+
+## Problem Statement
+
+- Your company has recently started on a project that aims to create a company website page. So you and your colleagues have started to work on the project.
+
+## Project Skeleton 
+
+```
+005-website-page-design (folder)
+|
+|----readme.md         # Given to the students (Definition of the project)          
+|----images            # Given to the students (Images of the project)   
+|----solution
+        |----index.html  
+        |----style.css   
+        |----about.html  
+        |----sservices.css 		
+        |----images (folder)
+```
+
+## Expected Outcome
+
+![Project 005 Snapshot](Project_005_1.png)
+
+![Project 005 Snapshot](Project_005_2.png)
+
+![Project 005 Snapshot](Project_005_3.png)
+
+## Objective
+
+Build a Landing same as in the example images.
+
+### At the end of the project, following topics are to be covered;
+
+- HTML 
+
+- CSS
+
+### At the end of the project, students will be able to;
+
+- improve coding skills within HTML & CSS
+
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+
+## Steps to Solution
+
+- Step 1: Download or clone project repo on Github 
+
+- Step 2: Create project folder for local public repo on your pc
+
+- Step 3: Website Page Design
+
+>>Part-1 HTML Structure
+
+	- Creat structure of the HTML5
+	- Give name of your project (title)
+	- Create the main structur of the HTML
+
+>>Part-2 CSS Structure
+
+	- Set a background
+	- Set container background color and margin
+	- Define others color-size-padding etc...
+
+- Step 4: Push your application into your own public repo on Github
+
+- Step 5: Deploy your application on Github template to showcase your app within your team.
+
+## Notes
+
+- You can use HTML,and CSS to complete this project.
+
+## Resources
+
+-  [Images](https://github.com/clarusway/clarusway-full-stack-7-21/tree/main/html-css/projects/004-%20Website%20Page%20Design/img)
+
+![gif](https://raw.githubusercontent.com/yhekim/To-Do-App-JS/main/To_Do_App_JS.gif)
+
+
+## Happy coding!
