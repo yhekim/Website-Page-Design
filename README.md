@@ -1,8 +1,8 @@
 # Project-005 : Website Page Design
 
-- https://sleepy-brattain-d7efd2.netlify.app/
+- https://yhekim.github.io/Website-Page-Design/
 
-- https://yhekim.github.io/To-Do-App-JS/
+- https://epic-cori-0e53c2.netlify.app
 
 ## Description
 
@@ -83,7 +83,7 @@ Build a Landing same as in the example images.
 
 -  [Images](https://github.com/clarusway/clarusway-full-stack-7-21/tree/main/html-css/projects/004-%20Website%20Page%20Design/img)
 
-![gif](https://raw.githubusercontent.com/yhekim/To-Do-App-JS/main/To_Do_App_JS.gif)
+![gif](https://raw.githubusercontent.com/yhekim/Website-Page-Design/main/website%20page%20design.gif)
 
 
 ## Happy coding!
